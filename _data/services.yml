@@ -1,0 +1,25 @@
+- menu_name: "Ссылки"
+
+- name: "О компании"
+  url: "/info/"
+  title: "О Компании"
+
+- name: "Контакты"
+  url: "/contact/"
+  title: "Контактная информация"
+
+- name: "Служба поддержки"
+  url: "https://jira.primetver.ru"
+  title: "Регистрация и отслеживание заявок"
+
+- name: "Вакансии"
+  url: "/job/"
+  title: "Работа а Тверском филиале"
+
+- name: "Atom feed"
+  url: "/atom.xml"
+  title: "Подписка на Atom ленту"
+
+- name: "Карта сайта"
+  url: "/sitemap.xml"
+  title: "Карта сайта"

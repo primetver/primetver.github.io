@@ -1,0 +1,8 @@
+---
+{% assign tag = include.tag %}
+
+##### Смотрите также:
+
+{% for post in site.tags.[tag] %}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}){% endfor %}
+- [Перечень решений и услуг на базе свободного ПО](/service/)

@@ -1,0 +1,53 @@
+#
+#   Navigation to the left › side: left
+#
+- title: "Главная"
+  url: "/"
+  side: left
+
+- title: "Решения и услуги"
+  url: "/service/"
+  side: left
+  dropdown:
+  - title: "Разработка на базе свободного ПО"
+    url: "/service/develop/"
+  - title: "Автоматизация внутреннего аудита"
+    url: "/service/audit-automation/"  
+  - title: "Миграция на PostgreSQL"
+    url: "/service/migration/"
+  - title: "Расширенная техническая поддержка"
+    url: "/service/support/"
+
+- title: "Платформа"
+  url: "/platform/"
+  side: left
+
+- title: "Open Source"
+  url: "/opensource/"
+  side: left
+
+- title: Блог
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Архив"
+    url: "/blog/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Компания"
+  url: "/info/"
+  side: right
+
+- title: "Вакансии"
+  url: "/job/"
+  side: right
+
+- title: "Поиск"
+  url: "/search/"
+  side: right
+
+- title: "Контакты"
+  url: "/contact/"
+  side: right

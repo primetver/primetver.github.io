@@ -1,0 +1,29 @@
+<aside>
+  <div class="panel radius">
+    
+    <a href="http://www.primegroup.ru">
+      <img class="b30" src="{{ site.url }}{{ site.baseurl }}/images/pg2.svg" alt="">
+    </a>
+
+    <ul class="side-nav">
+      <li>
+	<a href="{{ site.url }}{{ site.baseurl }}/service/"><h5>Решения и услуги</h5></a>
+	<ul>
+	  {% for post in site.tags.service %}
+	  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+      </li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/platform/"><h5>Платформа</h5></a></li>
+      <li><a href="{{ site.url }}{{ site.baseurl }}/opensource/"><h5>Открытое ПО</h5></a></li>
+      <li>
+	<a href="{{ site.url }}{{ site.baseurl }}/info/"><h5>О компании</h5></a>
+	<ul>
+	  <li><a href="{{ site.url }}{{ site.baseurl }}/job/}">Работа в Тверском филиале</a></li>
+	  <li><a href="{{ site.url }}{{ site.baseurl }}/contact/}">Контактная информация</a></li>	 
+	</ul>
+      </li>
+    </ul>  
+
+  </div>
+</aside>

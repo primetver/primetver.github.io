@@ -1,0 +1,17 @@
+- menu_name: "Мы в сети"
+
+- name: GitHub
+  url: https://github.com/primetver
+  class: icon-github
+  title: "GitHub repositories"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/company/ooo-prime-group-tverskoi-filial?trk=top_nav_home
+  class: icon-linkedin
+  title: "LinkedIn"
+
+#- name: "Head Hunter"
+#  url: "http://tver.hh.ru/employer/56181"
+#  class: "icon-hh"
+#  title: "Head Hunter"
+
