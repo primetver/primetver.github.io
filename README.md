@@ -1,2 +1,2 @@
 # primetver.github.io
-This is the main GitHub-Page from PrimeTver
+This is the GitHub-Page site from PrimeTver.

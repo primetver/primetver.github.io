@@ -64,7 +64,7 @@ permalink: /platform/
 
  [1]: http://www.primegroup.ru
  [2]: /platform/
- [3]: /opensource/why-postgres
+ [3]: /postgresql/
  [4]: http://tver.hh.ru/employer/56181
  [5]: /job/
  [6]: #

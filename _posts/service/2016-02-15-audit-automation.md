@@ -121,7 +121,7 @@ permalink: /service/audit-automation/
 
  
  [1]: /service/
- [2]: /images/collage.png
+ [2]: /images/sva/collage.png
  [3]: /platform/
  [4]: #
  [5]: #
