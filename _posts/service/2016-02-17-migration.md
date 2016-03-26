@@ -14,7 +14,7 @@ tags:
 # Styling
 #
 header:
-    image_fullwidth: code2-w.png
+    image_fullwidth: code2-w.jpg
     title: "PostgreSQL миграция"
     caption: 
     caption_url:

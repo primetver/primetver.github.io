@@ -10,12 +10,12 @@ teaser: "Программное обеспечение с открытым ис�
 # Styling
 #
 header: 
-    image_fullwidth: serve-w.png
+    image_fullwidth: serve-w.jpg
     title:
 image:
     title:
-    thumb: platform-600x600.png
-    homepage:
+    thumb: serve-thumb.jpg
+    homepage: 
     caption:
     caption_url:
 permalink: /opensource/

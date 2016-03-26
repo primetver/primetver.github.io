@@ -14,12 +14,12 @@ tags:
 # Styling
 #
 header:
-    image_fullwidth: buildings-b.png
+    image_fullwidth: buildings-b.jpg
     title: "Информационная поддержка внутреннего аудита"
     caption: 
     caption_url:
 image:
-    thumb: buildings-b.png
+    thumb: buildings-b.jpg
 breadcrumb: true
 permalink: /service/audit-automation/
 ---

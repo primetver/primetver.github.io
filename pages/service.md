@@ -5,7 +5,7 @@ title: "Услуги на базе свободного ПО"
 subheadline: "Услуги"
 teaser: "Специалистами компании накоплен более чем 15 летний опыт разработки и сопровождения программных решений на базе свободного ПО"
 header:
-   image_fullwidth: "coffee-w.png"
+   image_fullwidth: "coffee-w.jpg"
    title: ""
 ##breadcrumb: true
 permalink: "/service/"

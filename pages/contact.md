@@ -11,7 +11,7 @@ teaser: ""
 # Styling
 #
 header: 
-    image_fullwidth: corp2-w.png
+    image_fullwidth: corp2-w.jpg
     title:
 permalink: "/contact/"
 ---

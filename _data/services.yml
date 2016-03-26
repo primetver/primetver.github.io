@@ -16,10 +16,10 @@
   url: "/job/"
   title: "Работа а Тверском филиале"
 
-- name: "Atom feed"
+- name: "Лента Atom"
   url: "/atom.xml"
   title: "Подписка на Atom ленту"
 
-- name: "Карта сайта"
+- name: "XML карта"
   url: "/sitemap.xml"
   title: "Карта сайта"

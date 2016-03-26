@@ -15,12 +15,12 @@ tags:
 # Styling
 #
 header:
-    image_fullwidth: corp-w.png
+    image_fullwidth: corp-w.jpg
     title: "PostgreSQL"
 image:
   header: postgresql_logo.png
   thumb:  postgresql_logo.png
-  homepage: corp-w.png
+  homepage: corp-w.jpg
   caption: 
   url: 
 breadcrumb: true
