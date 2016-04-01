@@ -6,8 +6,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: corp2-w.jpg
-  title: 'Разработка решений для бизнеса на базе свободного ПО'
+  image_fullwidth: corp2-pg.jpg
+  title: 'Решения для бизнеса на базе свободного ПО'
+  caption: <strong>Перейти на сайт головного офиса компании ПРАЙМ&nbsp;ГРУП ></strong>
+  caption_url: http://www.primegroup.ru
 widget1:
   title: "Разработка"
   url: '/service/develop/'
