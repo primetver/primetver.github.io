@@ -5,11 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+primelink: true
 header:
-  image_fullwidth: corp2-pg.jpg
+  image_fullwidth: corp2-w.jpg
   title: 'Решения для бизнеса на базе свободного ПО'
-  caption: <div class="font-size-h4">Перейти на сайт компании «ПРАЙМ&nbsp;ГРУП» ›</div>
-  caption_url: http://www.primegroup.ru
 widget1:
   title: "Разработка"
   url: '/service/develop/'

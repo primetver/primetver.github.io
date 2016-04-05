@@ -22,6 +22,9 @@
 
 <div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
 	<div class="row">
+{% if page.primelink == true %}
+{% include _primelink.html %}
+{% endif %}
 		<div class="small-12 columns">
 			<div class="masthead-title">{{ page.header.title }}</div>
 		</div><!-- /.small-12.columns -->
@@ -50,7 +53,9 @@
 
 <div id="masthead">
 	<div class="row">
-		<div class="small-12 columns">
+{% if page.primelink == true %}
+{% include _primelink.html %}
+{% endif %}		<div class="small-12 columns">
 			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
