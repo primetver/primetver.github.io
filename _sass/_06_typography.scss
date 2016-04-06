@@ -109,7 +109,14 @@ h5 {
     margin: 1em 0 0 0;
 }
 
+@media #{$small-only} { 
+    h1 { font-size: $font-size-h3; }
+    h2 { font-size: $font-size-h3; }
+}
 
+@media #{$medium-only} { 
+    h1 { font-size: $font-size-h2; }
+}
 
 /* Images
 ------------------------------------------------------------------- */
@@ -284,8 +291,15 @@ mark {
     margin: 0;
     text-transform: uppercase;
 }
-.teaser {
-    font-size: rem-calc(20);
+@media #{$medium-up} {
+    .teaser {
+        font-size: rem-calc(20);
+    }
+}
+@media #{$small-only} { 
+    .teaser {
+        font-size: rem-calc(18);
+    }
 }
 .big-teaser {
     font-style: italic; font-weight: 300;
