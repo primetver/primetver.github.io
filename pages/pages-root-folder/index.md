@@ -8,7 +8,7 @@ layout: frontpage
 primelink: true
 header:
   image_fullwidth: corp2-w.jpg
-  title: 'Решения для бизнеса на базе свободного ПО'
+  title: 'Решения для бизнеса на базе свободного&nbsp;ПО'
 widget1:
   title: "Разработка"
   url: '/service/develop/'

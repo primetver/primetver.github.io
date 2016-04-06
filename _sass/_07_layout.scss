@@ -83,6 +83,9 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
+#primelink {
+    width: 300px;
+}
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
@@ -103,10 +106,13 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         height: 220px;
         padding: 30px 0;
-        font-size: rem-calc(36);
+        font-size: rem-calc(24);
     }
     #masthead-no-image-header {
         display: none;
+    }
+    #primelink {
+        width: 150px;
     }
 }
 
@@ -130,6 +136,10 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 60px 0;
         height: 300px;
+        font-size: rem-calc(36);
+    }
+    #primelink {
+        width: 225px;
     }
 }
 
