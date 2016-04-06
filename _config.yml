@@ -87,6 +87,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: primetver     # Default author for pages
+      primelink: true
   -
     scope:
       path: ""
@@ -96,6 +97,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: primetver     # Default author for posts
+      primelink: true
 
 
 #  Open _data/navigation.yml to adjust the left and right topbar navigation

@@ -30,7 +30,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Архив"
+  - title: "Архив публикаций"
     url: "/blog/archive/"
 
 #

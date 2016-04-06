@@ -6,6 +6,7 @@ layout: page-fullwidth
 title: "ПРАЙМ ГРУП"
 subheadline: "Компания"
 teaser: ""
+primelink: false
 #
 # Styling
 #
