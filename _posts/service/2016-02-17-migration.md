@@ -34,11 +34,7 @@ permalink: /service/migration/
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 
-![2]
-
 ![3]
-
-
 
 </div><!-- /.medium-4.columns -->
 

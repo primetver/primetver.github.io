@@ -9,6 +9,8 @@
   url: "/service/"
   side: left
   dropdown:
+  - title: "Управление информацией"
+    url: "/service/ias/"
   - title: "Разработка на базе свободного ПО"
     url: "/service/develop/"
   - title: "Автоматизация внутреннего аудита"
