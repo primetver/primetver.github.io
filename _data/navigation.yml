@@ -9,7 +9,7 @@
   url: "/service/"
   side: left
   dropdown:
-  - title: "Управление информацией"
+  - title: "Хранилища данных и бизнес-аналитика"
     url: "/service/ias/"
   - title: "Разработка на базе свободного ПО"
     url: "/service/develop/"
@@ -19,6 +19,15 @@
     url: "/service/migration/"
   - title: "Расширенная техническая поддержка"
     url: "/service/support/"
+
+- title: "Продукты"
+  url: #
+  side: left
+  dropdown:
+  - title: "Информационная поддержка аудита"
+    url: "/products/sipsva/"
+  - title: "Интеллектуальный транспорт данных"
+    url: "/products/trada/"
 
 - title: "Платформа"
   url: "/platform/"
@@ -41,15 +50,13 @@
 - title: "Компания"
   url: "/info/"
   side: right
-
-- title: "Вакансии"
-  url: "/job/"
-  side: right
-
+  dropdown:
+  - title: "Работа в Тверском филиале"
+    url: "/job/"
+  - title: "Контактная информация"
+    url: "/contact/"
+    side: right
+  
 - title: "Поиск"
   url: "/search/"
-  side: right
-
-- title: "Контакты"
-  url: "/contact/"
   side: right
