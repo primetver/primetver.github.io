@@ -21,7 +21,7 @@
     url: "/service/support/"
 
 - title: "Продукты"
-  url: #
+  url: "/service/"
   side: left
   dropdown:
   - title: "Информационная поддержка аудита"
