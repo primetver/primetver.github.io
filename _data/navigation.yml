@@ -9,6 +9,8 @@
   url: "/service/"
   side: left
   dropdown:
+  - title: "Аналитика больших данных"
+    url: "/service/bigdata/"
   - title: "Хранилища данных и бизнес-аналитика"
     url: "/service/ias/"
   - title: "Разработка на базе свободного ПО"
