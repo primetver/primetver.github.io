@@ -53,6 +53,8 @@
   url: "/info/"
   side: right
   dropdown:
+  - title: "Сертификаты и компетенции"
+    url: "/badges/"
   - title: "Работа в Тверском филиале"
     url: "/job/"
   - title: "Контактная информация"
