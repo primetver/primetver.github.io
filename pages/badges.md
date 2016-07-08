@@ -29,57 +29,17 @@ primelink: true
 
 ### Big Data Programming
 
-<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="3c56e7e7-f5e9-452a-b3aa-da8d6c98c83a"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
-  
-<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="53a7038d-c846-4201-a235-64c1ad6b0804"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
+{% include cclaim-badge id='3c56e7e7-f5e9-452a-b3aa-da8d6c98c83a' %}
+{% include cclaim-badge id='53a7038d-c846-4201-a235-64c1ad6b0804' %}
 
 ### Big Data Administration
 
-<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="380dc494-910d-4326-b239-a2824c562109"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
+{% include cclaim-badge id='380dc494-910d-4326-b239-a2824c562109' %}
 
 ### Big Data Foundations
 
-<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="9aa6f2f4-fa32-490b-b61b-b3ea21ef311b"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
+{% include cclaim-badge id='3e62ab4f-718b-4a30-b138-8d1a8e791a1f' %}
+{% include cclaim-badge id='9aa6f2f4-fa32-490b-b61b-b3ea21ef311b' %}
   
  [1]: #
  [2]: #
