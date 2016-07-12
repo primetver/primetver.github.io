@@ -26,6 +26,8 @@
   url: "/service/"
   side: left
   dropdown:
+  - title: "Виртуальные комнаты данных"
+    url: "/products/vkd/"
   - title: "Информационная поддержка аудита"
     url: "/products/sipsva/"
   - title: "Интеллектуальный транспорт данных"
