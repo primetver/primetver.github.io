@@ -1,6 +1,6 @@
 {% assign badge-id = include.id %}
 
-<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="{{badge-id}}"></div>
+<div data-iframe-width="210" data-iframe-height="270" data-share-badge-id="{{badge-id}}"></div>
   <script type="text/javascript">
     (function() {
       var s = document.createElement('script');
