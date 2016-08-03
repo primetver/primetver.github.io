@@ -27,7 +27,9 @@ primelink: true
 
 ## Oracle Database 12c
 
+
 {% include acclaim-badge id='1d1c214a-b5e4-4ca3-9b99-a80551d4c32c' %}
+{% include acclaim-badge id='c1e96bb0-9068-44d3-8fd1-96d7de3f6670' %}
 
 <a name="java"></a>
 
